@@ -1,0 +1,43 @@
+<script type='application/ld+json'>
+{
+"@context":"http://schema.org",
+"@type":"Corporation",
+"name": "STM Pharma - Một thương hiệu, Triệu trái tim",
+ "description":"STM Pharma - Một thương hiệu, Triệu trái tim.",
+ "logo":"https://stmpharma.vn/upload/photo/logo_13333022032018.png",
+"email":"stmpharmavn@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Hồ Chí Minh",
+    "addressRegion": "Vietnam",
+    "postalCode": "700000",
+    "streetAddress": "264 Hoàng Hoa Thám, Phường 12, Tân Bình, Hồ Chí Minh "
+  },
+"telephone":"0961036748",
+"url":"https://stmpharma.vn/",
+"sameAs":[
+	"https://www.facebook.com/stmpharma/",
+	"https://www.instagram.com/stmpharma",
+	"https://myspace.com/stmpharma",
+	"https://plus.google.com/107787422934983357278",
+	"https://www.pinterest.com/stmpharma/",
+	"https://twitter.com/stmpharma",
+]
+}
+</script>
+<script type='application/ld+json'>
+{
+"@context":"http://schema.org/",
+"@type":"GeoCoordinates",
+"latitude":"10.808876",
+"longitude":"106.648379",
+"postalcode":"700000",
+ "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Hồ Chí Minh",
+    "addressRegion": "Vietnam",
+    "postalCode": "700000",
+    "streetAddress": "264 Hoàng Hoa Thám, Phường 12, Tân Bình, Hồ Chí Minh "
+  }
+}
+</script>
