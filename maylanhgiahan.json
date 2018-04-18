@@ -1,0 +1,27 @@
+{
+  	"@context": "https://schema.org",
+  	"@type": "LocalBusiness",
+    "image":"https://3.bp.blogspot.com/-3-1jiUDiVZo/WridSeqxOVI/AAAAAAAAAP0/1gICiRAbvYwf-PhDMRlQ9FqfAwBFbJvogCLcBGAs/s1600/bannr.jpg",
+    "priceRange":"VNĐ",
+  	"address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Binh Duong",
+    "addressCountry": "Vietnam",
+    "postalCode":"820000",
+    "streetAddress": "314/10 Tân Phú 1, Tân Bình, Dĩ An"
+  	},
+  	"description": "Vệ sinh bơm gas và sửa chữa máy lạnh ngay tại nhà uy tín chất lượng, giá cả hợp lý tại các tỉnh Bình Dương, Đồng Nai và TPHCM.",
+  	"name": "Máy lạnh Gia Hân",
+  	"telephone": "0961036748",
+  	"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 08:00-19:00",
+  	"geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "10.8911335",
+    "longitude": "106.7030962"
+ 		}, 			
+  	"sameAs" : [ "http://www.facebook.com/maylanhgiahan",
+    "http://www.twitter.com/maylanhgiahan",
+    "https://www.linkedin.com/company/maylanhgiahan",
+    "https://www.pinterest.com/maylanhgiahan"
+    ]
+	}
