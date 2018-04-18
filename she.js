@@ -1,7 +1,7 @@
 <script type="application/ld+json">
         {
           "@context" : "https://schema.org",
-          "@type" : "MedicalEntity",
+          "@type" : "MedicalOrganization",
           "name" : "Bác Sĩ Đông Y Giỏi",
           "url" : "http://bacsidongygioi.com",
           "sameAs" : [
@@ -9,7 +9,7 @@
             "https://twitter.com/bacsidongy",
             "https://plus.google.com/+B%C3%A1cs%C4%A9%C4%91%C3%B4ngygi%E1%BB%8Fi",
             "https://www.pinterest.com/bacsidongygioi",
-		    "https://www.linkedin.com/company/bac-si-dong-y-gioi/"
+		  "https://www.linkedin.com/company/bac-si-dong-y-gioi/"
            ],
           "address": {
             "@type": "PostalAddress",
