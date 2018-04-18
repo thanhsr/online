@@ -1,7 +1,7 @@
 <script type="application/ld+json">
         {
           "@context" : "https://schema.org",
-          "@type" : "MedicalOrganization",
+          "@type" : "MedicalEntity",
           "name" : "Bác Sĩ Đông Y Giỏi",
           "url" : "http://bacsidongygioi.com",
           "sameAs" : [
